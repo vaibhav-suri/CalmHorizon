@@ -1,3 +1,6 @@
+## Video
+https://www.youtube.com/watch?v=MYZ7Xsvjkug
+
 ## Inspiration:
 Calm Horizons was inspired by the need for a modern and innovative approach to mindfulness practices. We wanted to create an immersive and calming experience that could transport users to tranquil virtual environments. To achieve this, we used AI-generated skyboxes to create stunning and realistic virtual environments that users can explore and interact with.
 
